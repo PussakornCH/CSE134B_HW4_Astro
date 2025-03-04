@@ -7,29 +7,26 @@ export type Job = {
 
 export const jobs: Job[] = [
   {
-    title: "Data Analyst",
-    company: "Tech Solutions Inc.",
-    dates: "01/2019 - 12/2022",
+    title: "Undergraduate Research Assistant",
+    company: "UC San Diego (Department of Computer Engineering)",
+    dates: "09/2022 - Present",
     description: [
-      "Developed interactive Power BI dashboards to analyze business performance and customer trends.",
-      "Automated ETL processes using Python and SQL to improve data processing efficiency by 40%.",
-      "Collaborated with stakeholders to identify key performance metrics and optimize reporting strategies.",
-      "Designed predictive models to forecast revenue and customer churn, providing actionable insights.",
-      "Managed data extraction from multiple sources, including APIs, databases, and cloud storage.",
-      "Presented analytical findings to executive teams, leading to data-driven decision-making."
+      "Assist in developing and testing embedded systems for autonomous robotics projects.",
+      "Collaborate with graduate researchers to design and implement algorithms in C++ and Python.",
+      "Collect, analyze, and document experiment data to improve system performance and reliability.",
+      "Present research findings at weekly lab meetings, contributing to cross-team discussions and problem-solving."
     ]
   },
   {
-    title: "Software Engineer",
-    company: "Innovatech Solutions",
-    dates: "03/2023 - Present",
+    title: "Software Engineer Intern",
+    company: "Tech Innovations, Inc.",
+    dates: "06/2023 - 09/2023",
     description: [
-      "Developed full-stack web applications using React, Node.js, and MongoDB.",
-      "Implemented RESTful APIs and integrated third-party services for enhanced application functionality.",
-      "Optimized SQL queries and database schemas to improve system performance.",
-      "Led a team of junior developers, mentoring them on best practices in software engineering.",
-      "Designed and implemented CI/CD pipelines, reducing deployment time by 50%.",
-      "Collaborated with UX/UI designers to enhance the user experience of web applications."
+      "Developed a web-based dashboard for real-time data visualization using React and Node.js.",
+      "Implemented APIs to integrate sensor data from IoT devices, improving system efficiency by 30%.",
+      "Collaborated with senior developers on feature design and code reviews, following Agile methodologies.",
+      "Optimized database queries and data models in MongoDB, reducing response times by 40%.",
+      "Presented final project outcomes to executive leadership, highlighting system scalability and future enhancements."
     ]
   }
 ];

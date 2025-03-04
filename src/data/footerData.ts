@@ -3,17 +3,17 @@ export const footerData = {
   socialLinks: [
     {
       name: 'GitHub',
-      url: 'https://github.com/johndoe',
+      url: 'https://github.com/PussakornCH',
       icon: 'Github'
     },
     {
       name: 'LinkedIn',
-      url: 'https://www.linkedin.com/in/johndoe/',
+      url: 'https://www.linkedin.com/in/pussakorn-chanpanichravee-13295129b/',
       icon: 'Linkedin'
     },
     {
       name: 'Email',
-      url: 'mailto:johndoe@example.com',
+      url: 'mailto:pchanpanichravee@ucsd.edu',
       icon: 'Mail'
     }
   ],
